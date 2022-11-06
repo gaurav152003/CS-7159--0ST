@@ -3,6 +3,6 @@
 <title> HELLO WORLD !!  ,WELCOME everyone!! </title>
 </head>
 <body>
-<h2> This is gaurav from div 2 </h2>
+    <h2> This is gaurav from div 2 </h2>
 </body>
 </html>
